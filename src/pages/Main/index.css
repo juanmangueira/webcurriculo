@@ -1,0 +1,9 @@
+.Apresentacao {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #2C2F33;
+    color: ghostwhite;
+}

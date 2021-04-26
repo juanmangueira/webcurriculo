@@ -1,0 +1,51 @@
+.retansuperior {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #9C27B0;
+
+}
+
+.titulo {
+    text-align: center;
+    font-size: 150%;
+    padding-top: 2%;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 125%;
+    padding-bottom: 2%;
+
+   
+}
+
+.retaninferior {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color: #9C27B0;
+}
+
+.texto {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 210%;
+    line-height: 150%;
+    text-align: center;
+    
+
+}
+.Eu {
+    display: flex;
+    justify-content: center;
+    clip-path: circle();
+}

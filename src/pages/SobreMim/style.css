@@ -1,0 +1,18 @@
+.estrutura {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #2C2F33;
+    color: ghostwhite;
+}
+
+.card {
+    background-color: #9C27B0;
+    
+}
+
+.Eu_int {
+    
+}
