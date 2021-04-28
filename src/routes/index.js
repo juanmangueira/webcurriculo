@@ -7,6 +7,8 @@ import Main from '../pages/Main';
 import SobreMim from '../pages/SobreMim';
 import ExperienciaEducacao from '../pages/ExperienciaEducacao';
 
+import './style.css'
+
 function Routes (){
     return (
         <BrowserRouter>

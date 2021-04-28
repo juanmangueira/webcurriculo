@@ -1,0 +1,68 @@
+.estrutura {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:#2C2F33;
+    color: ghostwhite;
+}
+
+.Containers {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 17.5%;
+}
+.exp {
+    margin-top: 30px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.exp1 {
+    text-align: left;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #9C27B0;
+}
+.exp2 {
+    text-align: left;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #9C27B0;
+}
+.exp3 {
+    text-align: left;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #9C27B0;
+
+}
+
+.edu {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.edu1 {
+    text-align: left;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #9C27B0;
+
+}
+.edu2 {
+    text-align: left;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #9C27B0;
+
+}
+.edu3 {
+    text-align: left;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #9C27B0;
+
+}
